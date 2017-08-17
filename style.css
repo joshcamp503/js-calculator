@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+.btn {
+  width: 30%;
+  height: 90px;
+  margin: 5px;
+  text-align: center;
+  padding-top: 25px;
+  border: 1px solid grey;
+  border-radius: 30px;
+  float: left;
+  font-size: 36px;
+  color: #333;
+  background-color: #f4e76e;
+/*  position: relative;
+    top: 150px;*/
+}
+
+#display {
+  float: none;
+  background-color: black;
+  width: 92%;
+  font-size: 60px;
+  font-family: 'Segment7Standard'; 
+  color: lime;
+  text-align: right;
+  padding: 15px 20px 15px 0;
+}
+
+.func {
+  background-color: #757761;
+}
+
+#equals {
+  background-color: #8ff7a7;
+}
